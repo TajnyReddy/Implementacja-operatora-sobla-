@@ -1,1 +1,1 @@
-# Implementacja-operatora-sobla-
+Ręczna implementacja operatora sobla w c++.
