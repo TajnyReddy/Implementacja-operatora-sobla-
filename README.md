@@ -2,7 +2,8 @@
 ### Introduction
 This C++ program is designed to process BMP (Bitmap) image files, applying the Sobel edge detection algorithm.
 ![image](https://github.com/TajnyReddy/Implementacja-operatora-sobla-/assets/59600478/c6779193-4990-42e8-ae6f-f9b17d594a30)
-![Uploading image.png…]()
+![image](https://github.com/TajnyReddy/Implementacja-operatora-sobla-/assets/59600478/f5aeeb43-cd3c-449c-80ab-d3f5316e234e)
+
 
 ### Features
 * Reading BMP Files: The program can read BMP files and extract header information.
